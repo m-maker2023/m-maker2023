@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Moustafa Aly
 - 👀 I’m interested in embeded systems and automation
-- 🌱 I’m currently learning more aout software developing for embeded system
+- 🌱 I’m currently learning more about software developing for embeded system
 mail:mohamed.bekheet2023@gmail.com
 
 <!---
